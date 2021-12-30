@@ -17,10 +17,25 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |0	|63| 1	|3	|145|	233|	1	|0	|150|	0	|2.3	|0	|0	|1|	1|
 
-| age | sex | cp | trtbps | chol | fbs | restecg | thalachh | exng | oldpeak | slp | caa | thall | output |	
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Age of the person | Gender of the person | Chest Pain type chest pain type | resting blood pressure | cholestoral | (fasting blood sugar > 120 mg/dl) | electrocardiographic results | max heart rate| exercise induced angina | Previous peak | Slope | number of major vessels (0-3) | Thal rate | Target variable |
+<br>
+<br>
 
+* age: Age of the person
+* sex: Gender of the person 
+* cp: Chest Pain type chest pain type 
+* trtbps: resting blood pressure
+* chol: cholestoral
+* fbs: fasting blood sugar > 120 mg/dl
+* restecg: electrocardiographic results
+* thalachh: max heart rate
+* exng: exercise induced angina
+* oldpeak: Previous peak
+* slp: Slope
+* caa: number of major vessels (0-3)
+* thall: Thal rate
+* output: Target variable
+
+<br>
 * blood sugar, exercise induced angina and Target variable are binary with 1 states as true, 0 false.
 * number of major vessels, range from 0 to 3
 * [source: kaggle](https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)
