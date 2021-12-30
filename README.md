@@ -1,8 +1,5 @@
 # heart_attack_prediction_analysis
 
-# Project Plan
-<br>
-<br>
 
 ## __<font color='salmon'> Description </font>__
 
