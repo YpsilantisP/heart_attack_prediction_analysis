@@ -13,10 +13,13 @@
 <br>
 
 ## __<font color='salmon'> The Data</font>__
-|Column Names    | age | sex | cp | trtbps | chol | fbs | restecg | thalachh | exng | oldpeak | slp | caa | thall | output |	
-| ---    | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|Description    | Age of the person | Gender of the person | Chest Pain type chest pain type | resting blood pressure | cholestoral | (fasting blood sugar > 120 mg/dl) | electrocardiographic results | max heart rate| exercise induced angina | Previous peak | Slope | number of major vessels (0-3) | Thal rate | Target variable |
-|Data    |0	|63| 1	|3	|145|	233|	1	|0	|150|	0	|2.3	|0	|0	|1|	1|
+| age | sex | cp | trtbps | chol | fbs | restecg | thalachh | exng | oldpeak | slp | caa | thall | output |	
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|0	|63| 1	|3	|145|	233|	1	|0	|150|	0	|2.3	|0	|0	|1|	1|
+
+| age | sex | cp | trtbps | chol | fbs | restecg | thalachh | exng | oldpeak | slp | caa | thall | output |	
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Age of the person | Gender of the person | Chest Pain type chest pain type | resting blood pressure | cholestoral | (fasting blood sugar > 120 mg/dl) | electrocardiographic results | max heart rate| exercise induced angina | Previous peak | Slope | number of major vessels (0-3) | Thal rate | Target variable |
 
 * blood sugar, exercise induced angina and Target variable are binary with 1 states as true, 0 false.
 * number of major vessels, range from 0 to 3
