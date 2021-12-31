@@ -7,16 +7,16 @@
 * Supervised, Binary Classification. With 1 stated as high risk and 0 as not.
 
 <br>
-<br>
 
 ## __<font color='salmon'> The Data</font>__
 | age | sex | cp | trtbps | chol | fbs | restecg | thalachh | exng | oldpeak | slp | caa | thall | output |	
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |0	|63| 1	|3	|145|	233|	1	|0	|150|	0	|2.3	|0	|0	|1|	1|
 
-<br>
+
 <br>
 
+#### Data description
 * age: Age of the person
 * sex: Gender of the person 
 * cp: Chest Pain type chest pain type 
@@ -34,10 +34,10 @@
 
 <br>
 
+#### Notes:
 * blood sugar, exercise induced angina and Target variable are binary with 1 states as true, 0 false.
 * number of major vessels, range from 0 to 3
-* [source: kaggle](https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)
-<br>
+* [link: kaggle](https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)
 <br>
 
 ## __<font color='salmon'> Sections </font>__
@@ -47,7 +47,6 @@
 * Data Exploration
 * Machine Learning
 * Conclusion
-<br>
 <br>
 
 ## __<font color='salmon'> Notes</font>__
