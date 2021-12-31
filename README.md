@@ -33,9 +33,11 @@
 * output: Target variable
 
 <br>
+
 * blood sugar, exercise induced angina and Target variable are binary with 1 states as true, 0 false.
 * number of major vessels, range from 0 to 3
 * [source: kaggle](https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)
+* 
 <br>
 <br>
 
